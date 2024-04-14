@@ -15,6 +15,7 @@ export class MenuBarComponent {
       items: [
         {
           label: 'Current Inventory',
+          routerLink: '/inventory',
         },
         {
           label: 'Sold',
